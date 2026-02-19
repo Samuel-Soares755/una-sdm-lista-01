@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlcep>
+  <cep>30640-070</cep>
+  <logradouro>Avenida Afonso Vaz de Melo</logradouro>
+  <complemento>até 1999/2000</complemento>
+  <unidade></unidade>
+  <bairro>Barreiro</bairro>
+  <localidade>Belo Horizonte</localidade>
+  <uf>MG</uf>
+  <estado>Minas Gerais</estado>
+  <regiao>Sudeste</regiao>
+  <ibge>3106200</ibge>
+  <gia></gia>
+  <ddd>31</ddd>
+  <siafi>4123</siafi>
+</xmlcep>
